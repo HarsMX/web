@@ -1,0 +1,69 @@
+body{
+	font-family:Arial,sans-serif;
+	background-color:#3b503e;
+}
+header{
+	font-size:30px;
+	text-align:center;
+	background-color:#233025;
+	color:#90e59d;
+}
+nav a{
+	color:white;
+	margin:30px;
+}
+nav{
+	background-color:black;
+}
+section{	
+	text-align:center;
+}
+.paragraf{
+	width:100%;
+}
+.search-container{
+	text-align:right;
+	padding:0;
+	background-color:#3b503e;
+}
+.search-button {
+	background-color:#3b503e;
+	padding:5px;
+}
+.input{
+	background-color:#3b503e;
+	padding:5px;
+}
+div{
+	background-color:#e5c29e78;
+}
+.product{
+	text-align:center;
+	display:inline-table;
+	padding:10px;
+	margin:20px;
+	height:50%;
+}
+h3{
+	font-size:20px;
+	margin:0;
+	padding:0;
+	
+}
+footer{
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-style:italic;
+}
+.comentar{
+	background-color:#e5c29e78;
+	margin:0;
+	padding:0;
+}
+Button{
+	background-color:#e5c29e78;
+	mangin:0;
+	padding:0;
+	text-align:Arial,sans-serrif;
+}
